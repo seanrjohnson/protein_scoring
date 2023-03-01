@@ -6,8 +6,8 @@
 
 | Notebook | Description |
 | -------- | ----------- |
-|          |             |
-|          |             | 
+| [ESM-MSA sampler](https://colab.research.google.com/github/seanrjohnson/protein_scoring/blob/main/colab_notebooks/ESM_MSA_sequence_generation.ipynb) | uses the ESM-MSA model (a transformer-based neural network trained on protein multiple sequence alignments) to generate new protein sequences by iteratively mutating sequences from an input alignment. |
+| [Metrics](https://github.com/seanrjohnson/protein_scoring/blob/main/colab_notebooks/Protein_Metrics.ipynb) | Calculates various sequence- and structure-based quality scores for proteins, such as those produced by generative models. | 
 
 
 ## Figures
@@ -19,4 +19,8 @@ conda env create --name protein_scoring -f conda_env.yml
 
 jupyter lab
 ```
+
+## Reference
+
+__TODO__
 
