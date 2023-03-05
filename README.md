@@ -20,8 +20,9 @@ conda env create --name protein_scoring -f conda_env.yml
 jupyter lab
 ```
 
-## Related repositories
+## Related data and repositories
 
+- [Source data](https://zenodo.org/record/7688668): AlphaFold2 predicted structures, Full sequence lists, Tables of metrics, Tables of experimental results, Phylogenetic Trees. Jupyter notebooks under "notebooks_for_figures" will automatically download the necessary data from Zenodo, but if you want it for some other purpose, it's available at this link.
 - [protein_gibbs_sampler](https://github.com/seanrjohnson/protein_gibbs_sampler): command line tools for generating new sequences using ESM-MSA sampling (used in the notebook above). 
 
 ## References
