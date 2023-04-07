@@ -22,7 +22,7 @@ jupyter lab
 
 ## Related data and repositories
 
-- [Source data](https://zenodo.org/record/7808981): AlphaFold2 predicted structures, Full sequence lists, Tables of metrics, Tables of experimental results, Phylogenetic Trees. Jupyter notebooks under "notebooks_for_figures" will automatically download the necessary data from Zenodo, but if you want it for some other purpose, it's available at this link.
+- [Source data](https://doi.org/10.5281/zenodo.7688667): AlphaFold2 predicted structures, Full sequence lists, Tables of metrics, Tables of experimental results, Phylogenetic Trees. Jupyter notebooks under "notebooks_for_figures" will automatically download the necessary data from Zenodo, but if you want it for some other purpose, it's available at this link.
 - [protein_gibbs_sampler](https://github.com/seanrjohnson/protein_gibbs_sampler): command line tools for generating new sequences using ESM-MSA sampling (used in the notebook above). 
 
 ## References
