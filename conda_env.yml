@@ -1,8 +1,7 @@
 name: protein_scoring
 channels:
-  - defaults
-  - bioconda
   - conda-forge
+  - bioconda
 dependencies:
   - python=3.8
   - pandas~=1.3.5
